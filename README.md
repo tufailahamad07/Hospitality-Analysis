@@ -1,6 +1,6 @@
 # Hospitality-Analysis
-##End-to-end hotel booking data analysis using Python, Pandas, and data visualization
-###Project Overview
+## End-to-end hotel booking data analysis using Python, Pandas, and data visualization
+### Project Overview
 
 This project focuses on analyzing hotel booking data to gain insights into:
 
